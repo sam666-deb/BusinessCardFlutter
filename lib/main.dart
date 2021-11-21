@@ -70,7 +70,6 @@ class Home extends StatelessWidget {
                       Center(
                         child: Image.asset(
                           'assets/logo1.png',
-                          // color: Colors.amber[700],
                           width: width * 0.4,
                         ),
                       ),
